@@ -22,6 +22,14 @@ const languages = {
         previous: '«',
         next: '»',
         last: '尾のページ'
+    },
+	 th: {
+        pageLength: 'แสดงแถว ',
+        pageInfo: 'หน้า #pageNumber# / #totalPage# （ทั้งหมด #totalRow# แถว）',
+        first: 'หน้าแรก',
+        previous: '«',
+        next: '»',
+        last: 'หน้าสุดท้าย'
     }
 };
 
